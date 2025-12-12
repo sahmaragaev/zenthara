@@ -1,0 +1,329 @@
+task2: |
+    Below is a set of IELTS Writing task 2 module topic and an answer. 
+    {
+        "question": {{.Question}},
+        "answer": {{.Answer}},
+        "wordCount": {{.WordCount}}
+    }
+
+    Evaluate the answer based on the following criteria, and provide a mark out of 9 as explained below, and give me the detailed review and notes on how to improve. Penalize for word count, since if it is below 250, it is highly unlikely that the person fully answered the topic. Penalize very harshly for the Task Response criterion, if the essay speaks about something completely different. If it is less, cut grades accordingly, as it is in real IELTS exam. Try to keep the result as low as possible, becuase nobody gets high on writing. Give 8 only to amazing essays, and 9 to perfect ones, which is really scarce:
+
+    Task Response:
+    - Fully addresses all parts of the task
+    - Presents a well-developed response to the question with relevant, extended and supported ideas
+    - Uses cohesion in such a way that it attracts no attention
+    - Skilfully manages paragraphing
+    Coherence and Cohesion:
+    - Arranges information and ideas coherently and logically
+    - Uses a range of cohesive devices appropriately although there may be some under-/over-use
+    - Presents a clear central topic within each paragraph
+    Lexical Resource:
+    - Uses a wide range of vocabulary with very natural and sophisticated control of lexical features; rare minor errors occur only as ‘slips’
+    - Uses paraphrases effectively
+    - Uses a wide range of structures flexibly
+    Grammatical Range and Accuracy:
+    - Uses a wide range of structures flexibly
+    - Produces a majority of error-free sentences with only very occasional inappropriateness or basic/non-systematic errors
+    - Uses a good range of complex structures
+    - Uses a variety of complex structures
+
+    TASK RESPONSE (TR)
+    Candidates are required to formulate and develop a position in relation to a given prompt in the form of a question or statement, using a minimum of 250 words. Ideas should be supported by evidence, and examples may be drawn from a candidate’s own experience.The TR criterion assesses:
+    how fully the candidate responds to the task.
+    how adequately the main ideas are extended and supported.
+    how relevant the candidate’s ideas are to the task.
+    how clearly the candidate opens the discourse, establishes their position and
+    formulates conclusions.
+    how appropriate the format of the response is to the task.COHERENCE AND COHESION (CC)
+    This criterion is concerned with the overall organisation and logical development of
+    the message: how the response organises and links information, ideas and language.
+    Coherence refers to the linking of ideas through logical sequencing, while cohesion
+    refers to the varied and appropriate use of cohesive devices (e.g. logical connectors,
+    conjunctions and pronouns) to assist in making clear the relationships between and
+    within sentences.
+    The CC criterion assesses:
+    the coherence of the response via the logical organisation of information and/or ideas, or the logical progression of the argument.
+    the appropriate use of paragraphing for topic organisation and presentation.
+    the logical sequencing of ideas and/or information within and across paragraphs.
+    the flexible use of reference and substitution (e.g. definite articles, pronouns).
+    the appropriate use of discourse markers to clearly mark the stages in a response, e.g. [First of all | In conclusion], and to signal the relationship between ideas and/or information, e.g. [as a result | similarly].LEXICAL RESOURCE (LR)
+    This criterion refers to the range of vocabulary the candidate has used and the accuracy and appropriacy of that use in terms of the specific task.
+    The LR criterion assesses:
+    the range of general words used (e.g. the use of synonyms to avoid repetition).
+    the adequacy and appropriacy of the vocabulary (e.g. topic-specific items, indicators of writer’s attitude).
+    the precision of word choice and expression.
+    the control and use of collocations, idiomatic expressions and sophisticated phrasing.
+    the density and communicative effect of errors in spelling.
+    the density and communicative effect of errors in word formation.
+
+    GRAMMATICAL RANGE AND ACCURACY (GRA)
+    This criterion refers to the range and accurate use of the candidate’s grammatical resource via the candidate’s writing at sentence level.
+    The GRA criterion assesses:
+    the range and appropriacy of structures used in a given response (e.g. simple, compound and complex sentences).
+    the accuracy of simple, compound and complex sentences.
+    the density and communicative effect of grammatical errors.
+    the accurate and appropriate use of punctuation.
+
+    Bands:
+
+    BAND 9:Task Response:
+    The prompt is appropriately addressed and explored in depth.
+    A clear and fully developed position is presented which directly answers the question(s).
+    Ideas are relevant, fully extended, and well supported.
+    Any lapses in content or support are extremely rare.
+    Coherence & Cohesion:
+    The message can be followed effortlessly.
+    Cohesion is used in such a way that it very rarely attracts attention.
+    Any lapses in coherence or cohesion are minimal.
+    Paragraphing is skilfully managed.
+    Lexical Resource:
+    Full flexibility and precise use are widely evident.
+    A wide range of vocabulary is used accurately and appropriately with very natural and sophisticated control of lexical features.
+    Minor errors in spelling and word formation are extremely rare and have minimal impact on communication.
+    Grammatical Range & Accuracy:
+    A wide range of structures is used with full flexibility and control.
+    Punctuation and grammar are used appropriately throughout.
+    Minor errors are extremely rare and have minimal impact on communication.
+
+    BAND 8:Task Response:
+    The prompt is appropriately and sufficiently addressed.
+    A clear and well-developed position is presented in response to the question(s).
+    Ideas are relevant, well-extended, and supported.
+    There may be occasional omissions or lapses in content.
+    Coherence & Cohesion:
+    The message can be followed with ease.
+    Information and ideas are logically sequenced, and cohesion is well-managed.
+    Occasional lapses in coherence and cohesion may occur.
+    Paragraphing is used sufficiently and appropriately.
+    Lexical Resource:
+    A wide range of vocabulary is used flexibly and effectively to discuss all topics.
+    Skillful use of less common and idiomatic items, despite occasional inaccuracies in word choice and collocation.
+    Effective use of paraphrase as required.
+    Grammatical Range & Accuracy:
+    A wide range of structures is flexibly used.
+    The majority of sentences are error-free.
+    Occasional inappropriacies and non-systematic errors occur.
+    A few basic errors may persist.
+
+    BAND 7:Task Response:
+    The main parts of the prompt are appropriately addressed.
+    A clear and developed position is presented.
+    Main ideas are extended and supported, but there may be a tendency to overgeneralize or lack precision in supporting ideas/material.
+    Coherence & Cohesion:
+    Information and ideas are logically organized, and there is a clear progression throughout the response. (A few lapses may occur, but these are minor.)
+    A range of cohesive devices is used flexibly but with some inaccuracies or overuse/underuse.
+    Paragraphing is generally used effectively to support overall coherence.
+    Lexical Resource:
+    The resource is sufficient to allow some flexibility and precision.
+    Some ability to use less common and idiomatic items.
+    An awareness of style and collocation is evident, though inappropriacies occur.
+    There are only a few errors in spelling and/or word formation and they do not detract from overall clarity.
+    Grammatical Range & Accuracy:
+    A variety of complex structures is used with some flexibility and accuracy.
+    Grammar and punctuation are generally well-controlled.
+    A few errors persist, but they do not impede communication.
+    BAND 6:Task Response:
+    The main parts of the prompt are addressed (though some may be more fully covered than others).
+    An appropriate format is used.
+    A position is presented that is directly relevant to the prompt, although the conclusions drawn may be unclear, unjustified, or repetitive.
+    Main ideas are relevant, but some may be insufficiently developed or may lack clarity, while some supporting arguments and evidence may be less relevant or inadequate.
+    Coherence & Cohesion:
+    Information and ideas are generally arranged coherently, and there is a clear overall progression.
+    Cohesive devices are used to good effect, but cohesion within and/or between sentences may be faulty or mechanical due to misuse, overuse, or omission.
+    The use of reference and substitution may lack flexibility or clarity and result in some repetition or error.
+    Paragraphing may not always be logical and/or the central topic may not always be clear.
+    Lexical Resource:
+    The resource is generally adequate and appropriate for the task.
+    The meaning is generally clear in spite of a rather restricted range or a lack of precision in word choice.
+    If the writer is a risk-taker, there will be a wider range of vocabulary used but higher degrees of inaccuracy or inappropriacy.
+    There are some errors in spelling and/or word formation, but these do not impede communication.
+    Grammatical Range & Accuracy:
+    A mix of simple and complex sentence forms is used, but flexibility is limited.
+    Examples of more complex structures are not marked by the same level of accuracy as in simple structures.
+    Errors in grammar and punctuation occur, but they rarely impede communication.
+
+    BAND 5:Task Response:
+    The main parts of the prompt are incompletely addressed.
+    The format may be inappropriate in places.
+    The writer expresses a position, but the development is not always clear.
+    Some main ideas are put forward, but they are limited and are not sufficiently developed and/or there may be irrelevant detail.
+    There may be some repetition.
+    Coherence & Cohesion:
+    Organization is evident but is not wholly logical, and there may be a lack of overall progression.
+    Nevertheless, there is a sense of underlying coherence to the response.
+    The relationship of ideas can be followed, but the sentences are not fluently linked to each other.
+    There may be limited/overuse of cohesive devices with some inaccuracy.
+    The writing may be repetitive due to inadequate and/or inaccurate use of reference and substitution.
+    Paragraphing may be inadequate or missing.
+    Lexical Resource:
+    The resource is limited but minimally adequate for the task.
+    Simple vocabulary may be used accurately, but the range does not permit much variation in expression.
+    There may be frequent lapses in the appropriacy of word choice and a lack of flexibility is apparent in frequent simplifications and/or repetitions.
+    Errors in spelling and/or word formation may be noticeable and may cause some difficulty for the reader.
+    Grammatical Range & Accuracy:
+    The range of structures is limited and rather repetitive.
+    Although complex sentences are attempted, they tend to be faulty, and the greatest accuracy is achieved on simple sentences.
+    Grammatical errors may be frequent and cause some difficulty for the reader.
+    Punctuation may be faulty.
+
+    BAND 4:Task Response:
+    The prompt is tackled in a minimal way, or the answer is tangential, possibly due to some misunderstanding of the prompt.
+    The format may be inappropriate.
+    A position is discernible, but the reader has to read carefully to find it.
+    Main ideas are difficult to identify, and such ideas that are identifiable may lack relevance, clarity, and/or support.
+    Large parts of the response may be repetitive.
+    Coherence & Cohesion:
+    Information and ideas are evident but not arranged coherently, and there is no clear progression within the response.
+    Relationships between ideas can be unclear and/or inadequately marked.
+    There is some use of basic cohesive devices, which may be inaccurate or repetitive.
+    There is inaccurate use or a lack of substitution or referencing.
+    There may be no paragraphing and/or no clear main topic within paragraphs.
+    Lexical Resource:
+    The resource is limited and inadequate for the task.
+    Vocabulary is basic and may be used repetitively.
+    There may be inappropriate use of lexical chunks (e.g., memorized phrases, formulaic language, and/or language from the input material).
+    Inappropriate word choice and/or errors in word formation and/or in spelling may impede meaning.
+    Grammatical Range & Accuracy:
+    A very limited range of structures is used.
+    Subordinate clauses are rare, and simple sentences predominate.
+    Some structures are produced accurately, but grammatical errors are frequent and may impede meaning.
+    Punctuation is often faulty or inadequate.
+
+    BAND 3:Task Response:
+    No part of the prompt is adequately addressed, or the prompt has been misunderstood.
+    No relevant position can be identified, and/or there is little direct response to the question(s).
+    There are few ideas, and these may be irrelevant or insufficiently developed.
+    Coherence & Cohesion:
+    There is no apparent logical organization. Ideas are discernible but difficult to relate to each other.
+    There is minimal use of sequencers or cohesive devices. Those used do not necessarily indicate a logical relationship between ideas.
+    There is difficulty in identifying referencing.
+    Any attempts at paragraphing are unhelpful.
+    Lexical Resource:
+    The resource is inadequate (which may be due to the response being significantly underlength).
+    Possible overdependence on input material or memorized language.
+    Control of word choice and/or spelling is very limited, and errors predominate.
+    These errors may severely impede meaning.
+    Grammatical Range & Accuracy:
+    Sentence forms are attempted, but errors in grammar and punctuation predominate (except in memorized phrases or those taken from the input material).
+    This prevents most meaning from coming through.
+    Length may be insufficient to provide evidence of control of sentence forms.
+
+    BAND 2:Task Response:
+    The content is barely related to the prompt.
+    No position can be identified.
+    There may be glimpses of one or two ideas without development.
+    Coherence & Cohesion:
+    There is little relevant message, or the entire response may be off-topic.
+    There is little evidence of control of organizational features.
+    Lexical Resource:
+    The resource is extremely limited, with few recognizable strings, apart from memorized phrases.
+    There is no apparent control of word formation and/or spelling.
+    Grammatical Range & Accuracy:
+    There is little or no evidence of sentence forms (except in memorized phrases).
+
+    BAND 1:Task Response:
+    Responses of 20 words or fewer are rated at Band 1.
+    The content is wholly unrelated to the prompt.
+    Any copied rubric must be discounted.
+    Coherence & Cohesion:
+    Responses of 20 words or fewer are rated at Band 1.
+    There is no apparent logical organization.
+    Lexical Resource:
+    Responses of 20 words or fewer are rated at Band 1.
+    No resource is apparent, except for a few isolated words.
+    Grammatical Range & Accuracy:
+    Responses of 20 words or fewer are rated at Band 1.
+    No rateable language is evident.
+
+    BAND 0:
+    Should only be used where a candidate did not attend.
+
+    Scoring Guidelines:
+
+    Calculate the average of the five criteria scores.
+    Possible band scores are: 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9.
+    Answer Length Guidelines:
+    For Task 2 Writing tests, candidates are required to formulate and develop a position in relation to a given prompt in the form of a question or statement, using a minimum of 250 words.
+
+    Instructions for Evaluation:
+    Carefully evaluate the provided answers based on the criteria above. Provide specific feedback, not generalizations. Include fixes for any mistakes based on the criteria. Do not lose any information from the criteria provided.
+
+    Format: Follow strictly this JSON structure:
+    This is a simplified JSON sample (Remember that you need to provide given number of words (10+), very detailed answer, grammar and extra details)
+    {
+        "sectionResults": {
+            "taskResponse": {
+                "bandScore": int,
+                "taskResponsePersonalizedFeedback": {
+                    "notes": "",
+                    "strengths": [
+                        "",
+                    ],
+                    "areasForImprovement": [
+                        "",
+                    ]
+                }
+            },
+            "coherenceAndCohesion": {
+                "bandScore": int,
+                "coherenceAndCohesionPersonalizedFeedback": {
+                    "notes": "",
+                    "strengths": [
+                        ""
+                    ],
+                    "areasForImprovement": [
+                        ""
+                    ]
+                }
+            },
+            "lexicalResource": {
+                "bandScore": int,
+                "lexicalPersonalizedFeedback": {
+                    "notes": "",
+                    "wordList": [
+                        {
+                            "word": "",
+                            "contextualUsage": [
+                                ""
+                            ]
+                        },
+                        {
+                            "word": "",
+                            "contextualUsage": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            },
+            "grammaticalRangeAndAccuracy": {
+                "bandScore": int,
+                "grammarPersonalizedFeedback": {
+                    "notes": "",
+                    "identifiedIssues": [
+                        "",
+                    ],
+                    "improvementTips": "",
+                    "grammarList": [
+                        {
+                            "structure": "Complex Sentences",
+                            "examples": [
+                                "",
+                            ]
+                        },
+                        {
+                            "structure": "Conditionals",
+                            "examples": [
+                                "",
+                            ]
+                        }
+                    ]
+                }
+            },
+        },
+        "overallBandScore": 7,
+        "generalFeedback": {
+            "summary": "",
+            "keyRecommendations": []
+        }
+    }

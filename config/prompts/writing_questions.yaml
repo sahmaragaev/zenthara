@@ -1,0 +1,10 @@
+task2: |
+  Create an IELTS Writing Task 2 question that follows the official IELTS format. The response should be structured in JSON format with two fields: 'statement' and 'question'. The statement should present a contemporary issue or debate that allows for nuanced discussion, while the question should prompt analytical thinking and require candidates to explore multiple perspectives.
+  Topics to include: {{.IncludeTopics}}
+  Topics to exclude: {{.ExcludeTopics}}
+  Task Type: ${{.TaskType}}
+  Format: Follow strictly this JSON structure:
+  {
+    "statement": "",
+    "question": ""
+  }
